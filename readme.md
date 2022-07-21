@@ -6,17 +6,17 @@
 
 ### Criação de Tarefas:
 
-<img src="https://drive.google.com/file/d/188MA5ivulSnm846n7cGKi8Ty3154QOtX/view?usp=sharing" alt="Nova Tarefa">
+<img src="https://github.com/CLucasrodrigues22/AppTarefas/blob/master/querys/AppListaTarefasNovaTarefa.png" alt="Nova Tarefa">
 
 
 ### Listagem de Tarefas pendentes
 
-<img src="https://drive.google.com/file/d/1tFkMXMgfd-3_wBVRLD3DYEZ-2yMS9YOk/view?usp=sharing" alt="Tarefa Pendentes">
+<img src="https://github.com/CLucasrodrigues22/AppTarefas/blob/master/querys/AppListaTarefasListaPendentes.png" alt="Tarefa Pendentes">
 
 
 ### Listagem de todas tarefas (pendentes e finalizadas)
 
-<img src="https://drive.google.com/file/d/1nppxlYNN5ijLoLiWKm1tDykfTDgy5QfN/view?usp=sharing" alt="Todas Tarefas">
+<img src="https://github.com/CLucasrodrigues22/AppTarefas/blob/master/querys/AppListaTarefasTodasTarefas.png" alt="Todas Tarefas">
 
 
 
