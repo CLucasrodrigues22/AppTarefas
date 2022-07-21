@@ -34,12 +34,12 @@ Apos clonar o repositorio na sua maquina local ou servidor, e executar as querys
 
 Entre no diretório app_lista_tarefas_public e digite:
 
-o Powershell do Windows
+No Powershell do Windows
 ```
 php -S localhost:(porta de preferência)
 ```
 
-Linux (Debian ou Ubuntu)
+No terminal Linux (Debian ou Ubuntu)
 ```
 sudo php -S localhost:(porta de preferência)
 ```
