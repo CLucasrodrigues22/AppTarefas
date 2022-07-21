@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jul 21, 2022 at 04:18 PM
+-- Generation Time: Jul 21, 2022 at 04:24 PM
 -- Server version: 10.4.24-MariaDB
 -- PHP Version: 8.1.6
 
@@ -53,6 +53,15 @@ CREATE TABLE `tb_tarefas` (
   `data_cadastrado` datetime NOT NULL DEFAULT current_timestamp()
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
+--
+-- Dumping data for table `tb_tarefas`
+--
+
+INSERT INTO `tb_tarefas` (`id`, `id_status`, `tarefa`, `data_cadastrado`) VALUES
+(9, 1, 'Lavar o carro', '2022-07-21 11:00:32'),
+(10, 1, 'Estudar para a prova', '2022-07-21 11:00:40'),
+(11, 1, 'Formatar computador da tia', '2022-07-21 11:01:04'),
+(12, 2, 'Fazer corrida pela manhã', '2022-07-21 11:01:41');
 
 -- --------------------------------------------------------
 
