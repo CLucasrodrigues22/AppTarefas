@@ -2,7 +2,7 @@
 
 
 
-> Esse é um simples projeto onde o foco é a criação de tarefas do cotidiano e listagem de tarfeas pendentes e finalizadas.
+> Esse é um simples projeto onde o foco é a criação de tarefas do cotidiano, listagem de tarfeas pendentes e finalizadas.
 
 ### Criação de Tarefas:
 
